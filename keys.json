@@ -1,4 +1,10 @@
 {
+  "_meta": {
+    "version": "1.1.0",
+    "script_url": "https://raw.githubusercontent.com/aredmi0716-oss/bdjddjbfdvjkflkvnsljfgnwljfnfjvndljfv-keys/refs/heads/main/ExtraLV.lua",
+    "min_loader": "1.0"
+  },
+
   "ELV-3q918QlXIpvFE4as": "forever",
   "ELV-Kz3O47IZXQRySleW": "forever",
   "ELV-9OI7s4YGy1F5ScRE": "forever",
@@ -134,6 +140,10 @@
   "ELV-TEST12H-K7L8M9N0": "hour12",
   "ELV-TEST12H-O1P2Q3R4": "hour12",
   "ELV-TEST12H-S5T6U7V8": "hour12",
+  "ELV-TEST12H-W9X0Y1Z2": "hour12",
+  "ELV-TEST12H-A3B4C5D6": "hour12",
+  "ELV-TEST12H-E7F8G9H0": "hour12"
+}
   "ELV-TEST12H-W9X0Y1Z2": "hour12",
   "ELV-TEST12H-A3B4C5D6": "hour12",
   "ELV-TEST12H-E7F8G9H0": "hour12"
