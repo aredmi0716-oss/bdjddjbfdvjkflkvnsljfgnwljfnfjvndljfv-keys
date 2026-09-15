@@ -1,0 +1,8 @@
+name = "extralv-keys"
+main = "worker.js"
+compatibility_date = "2024-09-23"
+
+# После создания KV-хранилища раскомментируй и впиши ID (мы сделаем это позже)
+# [[kv_namespaces]]
+# binding = "EXTRALV_KEYS"
+# id = "СЮДА_ID_KV"
